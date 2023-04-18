@@ -1,0 +1,11 @@
+Model Information:
+* title:	Просто куб!
+* source:	https://sketchfab.com/3d-models/d342b4a3a4ff4d9b8493f528ed4987df
+* author:	Zipi_code (https://sketchfab.com/Zipi_code)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Просто куб!" (https://sketchfab.com/3d-models/d342b4a3a4ff4d9b8493f528ed4987df) by Zipi_code (https://sketchfab.com/Zipi_code) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
